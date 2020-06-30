@@ -3,4 +3,4 @@ Notes for Everyday Meetings
 ## Daily Meetings
 |      |       JIngyi       |         Qiaowen         |           Tianyi           |          Yu           |
 | :--: | :----------------: | :---------------------: | :------------------------: | :-------------------: |
-| 6.30 | Fecth interns info | Collect researches info | Collect RAs & Forums (WIP) | Research on [Cloud SQL](https://app.yinxiang.com/fx/2e425520-1b28-41d5-a7ec-bf9fe8b245dd) |
+| 6.30 | Fecth interns info | Collect [researches info](https://github.com/307zoo-Aeolus/Dashboard/blob/master/COVID19%20RESEARCH.csv) | Collect RAs & Forums (WIP) | Research on [Cloud SQL](https://app.yinxiang.com/fx/2e425520-1b28-41d5-a7ec-bf9fe8b245dd) |
