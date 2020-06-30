@@ -12,3 +12,4 @@ React + Cloud SQL
 ## Realted Resources
 * [Django Rest Framework](https://github.com/307zoo-Aeolus/Dashboard/blob/master/RESTful.md)
 * [React](https://zh-hans.reactjs.org/)
+* [Deploy React on Cloud](https://medium.com/google-cloud/hosting-a-react-js-app-on-google-cloud-app-engine-6d1341b75d8c)
