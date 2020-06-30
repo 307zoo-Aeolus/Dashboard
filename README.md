@@ -10,5 +10,5 @@ React + Cloud SQL
 * Build react demo
 * Learn to use Cloud SQL
 ## Realted Resources
-* [Django Rest Framework](https://github.com/307zoo-Aeolus/Dashboard/blob/master/%E5%89%8D%E5%90%8E%E7%AB%AF%E5%88%86%E7%A6%BB%E5%9F%BA%E7%A1%80.docx)
+* [Django Rest Framework](https://github.com/307zoo-Aeolus/Dashboard/blob/master/RESTful.md)
 * [React](https://zh-hans.reactjs.org/)
